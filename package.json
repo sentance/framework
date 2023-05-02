@@ -2,7 +2,7 @@
   "devDependencies": {
     "typescript": "^4.4.3"
   },
-  "scripts": { 
+  "scripts": {
     "start": "parcel index.html"
   }
 }
