@@ -3,3 +3,6 @@
 /dist
 /package-lock.json
 /.parcel-cache
+server/build
+server/node_modules
+server/package-lock.json
